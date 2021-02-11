@@ -1,0 +1,14 @@
+{
+  "_info_1": "'serviceURL' is the one is shown in the output of sls deploy and sls info if you already deployed earlier.",
+  "_info_2": "'loginURL' and 'logoutURL', the DOMAIN can be found under 'App Integration' in the Cognito console.",
+  "_info_3": "'APP_CLIENT_ID' is in 'General settings / App Clients'.",
+  "loginURL-dev1": "https://cosignal-dev.auth.us-east-2.amazoncognito.com/login?response_type=token&client_id=78das6uebgt0t075u2uq1cpga0&redirect_uri=http://localhost:3000",
+  "loginURL-dev2": "https://cosignal-dev2.auth.us-east-2.amazoncognito.com/login?response_type=token&client_id=509kdomrpkg7hv0pfmku3bphku&redirect_uri=http://localhost:3000",
+  "loginURL-dev3": "https://cosignal-dev3.auth.us-east-2.amazoncognito.com/login?response_type=token&client_id=7sfjtcf3d4tkc770g5p19i9550&redirect_uri=http://ugnx-cgm-dev3-frontend.s3-website.us-east-2.amazonaws.com",
+  "logoutURL-dev1": "https://cosignal-dev.auth.us-east-2.amazoncognito.com/logout?client_id=78das6uebgt0t075u2uq1cpga0&logout_uri=http://localhost:3000",
+  "logoutURL-dev2": "https://cosignal-dev2.auth.us-east-2.amazoncognito.com/logout?client_id=509kdomrpkg7hv0pfmku3bphku&logout_uri=http://localhost:3000",
+  "logoutURL-dev3": "https://cosignal-dev3.auth.us-east-2.amazoncognito.com/logout?client_id=7sfjtcf3d4tkc770g5p19i9550&logout_uri=http://ugnx-cgm-dev3-frontend.s3-website.us-east-2.amazonaws.com",
+  "serviceURL-dev1":"https://dev.api.cosignal.net/v1/device-statuses",
+  "serviceURL-dev2":"https://dev2.api.cosignal.net/v1/device-statuses",
+  "serviceURL-dev3":"https://dev2.api.cosignal.net/v1/device-statuses"
+}
