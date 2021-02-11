@@ -4,5 +4,5 @@
   "_info_3": "'APP_CLIENT_ID' is in 'General settings / App Clients'.",
   "loginURL-dev3": "https://cosignal-dev3.auth.us-east-2.amazoncognito.com/login?response_type=token&client_id=7sfjtcf3d4tkc770g5p19i9550&redirect_uri=https://tkarakai.github.io/ugnx-cgm-dev3/",
   "logoutURL-dev3": "https://cosignal-dev3.auth.us-east-2.amazoncognito.com/logout?client_id=7sfjtcf3d4tkc770g5p19i9550&logout_uri=https://tkarakai.github.io/ugnx-cgm-dev3/",
-  "serviceURL-dev3":"https://dev2.api.cosignal.net/v1/device-statuses"
+  "serviceURL-dev3":"https://dev3.api.cosignal.net/v1/device-statuses"
 }
